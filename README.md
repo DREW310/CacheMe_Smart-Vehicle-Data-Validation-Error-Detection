@@ -3,8 +3,11 @@
 ## Solving Malaysian Insurance Application Errors Through AI Pattern Recognition
 
 **Competition Track**: Industry Collaboration
+
 **Team**: CacheMe
+
 **Phase**: Prototype Development
+
 **Live Demo**: https://tofu-hero-35863024.figma.site/
 
 ### Problem Statement
