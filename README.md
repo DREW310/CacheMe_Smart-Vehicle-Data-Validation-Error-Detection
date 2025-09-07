@@ -37,3 +37,21 @@ Our Figma prototype showcases complete validation scenarios based on competition
 The demonstration emphasizes educational feedback and cultural sensitivity, showing how the system builds user trust through transparency about suggestion reliability and confidence scoring.
 
 **Live Interactive Demo**: https://tofu-hero-35863024.figma.site/
+
+<img width="1410" height="806" alt="image" src="https://github.com/user-attachments/assets/6ceb0445-a1d9-40f1-8a39-e1162e18e1ab" />
+
+<img width="1500" height="856" alt="image" src="https://github.com/user-attachments/assets/5f9a9e76-1d16-4117-b237-e2b4d23e36a9" />
+
+<img width="1334" height="831" alt="image" src="https://github.com/user-attachments/assets/3f2550f6-ccb9-4e7a-bfcc-bb2a86da075c" />
+
+<img width="1356" height="845" alt="image" src="https://github.com/user-attachments/assets/31f15004-a5b9-44c0-907b-5329ceff9ca7" />
+
+<img width="1435" height="855" alt="image" src="https://github.com/user-attachments/assets/05c1ba44-c222-4fe6-a599-0235df120f81" />
+
+
+
+
+
+
+
+
