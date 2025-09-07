@@ -8,7 +8,7 @@
 
 **Phase**: Prototype Development
 
-**Live Demo**: https://tofu-hero-35863024.figma.site/
+**Prototype Link**: https://tofu-hero-35863024.figma.site/
 
 ### Problem Statement
 
@@ -36,7 +36,7 @@ Our Figma prototype showcases complete validation scenarios based on competition
 
 The demonstration emphasizes educational feedback and cultural sensitivity, showing how the system builds user trust through transparency about suggestion reliability and confidence scoring.
 
-**Live Interactive Demo**: https://tofu-hero-35863024.figma.site/
+**Prototype Link**: https://tofu-hero-35863024.figma.site/
 
 <img width="1410" height="806" alt="image" src="https://github.com/user-attachments/assets/6ceb0445-a1d9-40f1-8a39-e1162e18e1ab" />
 
