@@ -1,4 +1,4 @@
-# VehicleVerify Pro - Smart Vehicle Data Validation System
+# VehicleVerify - Smart Vehicle Data Validation System
 
 ## Solving Malaysian Insurance Application Errors Through AI Pattern Recognition
 
