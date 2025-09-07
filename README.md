@@ -2,7 +2,7 @@
 
 ## Solving Malaysian Insurance Application Errors Through AI Pattern Recognition
 
-**Competition Track**: Industry Collaboration
+**Competition Track**: Industry Collaboration (CodeNection 2025)
 
 **Team**: CacheMe
 
@@ -18,7 +18,7 @@ Common error patterns include brand typos like "Toyot" instead of "Toyota," mode
 
 ### Our Creative Solution
 
-VehicleVerify Pro introduces culturally-aware validation that understands how Malaysian users actually make mistakes. Unlike generic form validators that only check basic formats, our system recognizes reversed spellings like "audoreP" for "Perodua" and character substitutions like "T0y0ta" for "Toyota."
+VehicleVerify introduces culturally-aware validation that understands how Malaysian users actually make mistakes. Unlike generic form validators that only check basic formats, our system recognizes reversed spellings like "audoreP" for "Perodua" and character substitutions like "T0y0ta" for "Toyota."
 
 The innovation lies in combining pattern recognition with educational feedback. Instead of displaying generic error messages, our system explains Malaysian vehicle registration standards while providing intelligent suggestions based on actual user behavior patterns from the competition dataset.
 
